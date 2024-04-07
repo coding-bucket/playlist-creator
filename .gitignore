@@ -1,0 +1,10 @@
+/bin/client_secret.json
+/bin/api-key.php
+/.idea/
+/.php-cs-fixer.cache
+/.phpunit.result.cache
+/.idea/modules.xml
+/_coverage/
+/.phpdoc/
+/docs/
+/vendor/

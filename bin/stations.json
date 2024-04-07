@@ -1,0 +1,26 @@
+{
+    "wdr4": {
+        "name": "WDR 4",
+        "path": "wdr4"
+    },
+    "einslive": {
+        "name": "Eins Live",
+        "path": "einslive"
+    },
+    "90s": {
+        "name": "90s",
+        "path": "90s90shits"
+    },
+    "dish": {
+        "name": "dish",
+        "path": "dish"
+    },
+    "technobase": {
+        "name": "technobase",
+        "path": "technobase"
+    },
+    "coretime": {
+        "name": "coretime",
+        "path": "coretime"
+    }
+}
